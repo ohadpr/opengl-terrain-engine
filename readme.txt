@@ -1,4 +1,4 @@
-Terrain Engine
+OpenGL Terrain Engine, Windows
 
 I started working on a terrain engine around October 2000. 
 I was deeply moved by screenshots from the game black and white :)
