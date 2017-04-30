@@ -1,5 +1,7 @@
 OpenGL Terrain Engine, Windows
 
+![Alt text](https://www.ohadpr.com/wp-content/uploads/2008/08/terrain_shot_3.jpg)
+
 I started working on a terrain engine around October 2000. 
 I was deeply moved by screenshots from the game black and white :)
 My intention and main goal was to create something visually stunning. 
@@ -11,4 +13,4 @@ I used OpenGL for this one, employing the OGLC skeleton to avoid most of the ope
 
 You can move through this world using descent keys (a,z, keypad). use 'w' to switch to wire-frame and 'd' to render without the detail texture.
 
-ohadpr.com
+[ohadpr.com](http://ohadpr.com)
